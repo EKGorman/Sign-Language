@@ -1,7 +1,5 @@
 # Sign-Language
 Artificial Intelligence Final Project
-#hi nick.
-#this is readme.
-#professor -->
-# please give us an A
+#this project is using machine learning algorithms like the "trainging" method to teach itself how to learn what each lett of the alphabet looks like. 
+
 
